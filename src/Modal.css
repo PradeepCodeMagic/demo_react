@@ -1,0 +1,21 @@
+.btn{
+    background-color: #de1d1d !important;
+    padding: 10px;
+    border: none;
+    color: white;
+}
+
+.modal{
+    width: 400px;
+    height: 200px;
+    background-color: skyblue;
+    position: absolute;
+    top:-100%;
+    left: 20%;
+    transition: 1s;
+}
+
+.active{
+    top:20%;
+}
+
